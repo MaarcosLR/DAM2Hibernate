@@ -1,4 +1,4 @@
-package org.example.dam2hibernate;
+package org.example.dam2hibernate.Practica1;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

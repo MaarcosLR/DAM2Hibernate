@@ -1,4 +1,4 @@
-package org.example.dam2hibernate;
+package org.example.dam2hibernate.Practica1;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
